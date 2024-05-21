@@ -1479,11 +1479,11 @@ int main(int argc, char *argv[]) {
 	    		system("cls");
 	    	}
 	    	
-	    	printf("%d", escolha_jogo);
+	    	/*printf("%d", escolha_jogo);
 		    printf("Voce digitou uma opcao invalida!\n");
 		    printf("Digite somente [1], [2] ou [3].\n");
 		    Sleep(1000);
-		    system("cls");
+		    system("cls");*/
 	      	
 	    }
 	}
