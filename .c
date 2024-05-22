@@ -16,116 +16,116 @@ int main(int argc, char *argv[]) {
 	int fase = 1;
 	int vitoria = 0;
 	
-	printf("<(Vovo, eu quero sorvete!!!\t\t\n");
+	printf("<(Papai, eu quero sorvete!!!)\t\t\n");
   	printf("              0                 \n");
   	printf("  o          /|\\               \n");
   	printf("  |          / \\               \n");
   	Sleep(3000); 
   	system("cls");
 
-  	printf("                <(Acalme-se meu neto, estamos chegando)\t\t\n");
+  	printf("                <(Acalme-se meu filho, estamos chegando)\t\t\n");
   	printf("              0                 \n");
   	printf("  o          /|\\              \n");
   	printf("  |          / \\               \n");
-  	Sleep(4000);
+  	Sleep(3000);
   	system("cls");
 
-  	printf("                                  <(Finalmente te encontrei, Otto!)\t\t\n");
+  	printf("                                  <(Finalmente te encontrei, Casseb!)\t\t\n");
   	printf("              0                {}\n");
   	printf("  o          /|\\               /|\\\n");
   	printf("  |          / \\               / \\\n");
-  	Sleep(4000); 
+  	Sleep(3000); 
   	system("cls");
 
   	printf("                                  <(Voce ira pagar!)\t\t\n");
   	printf("              0                {}\n");
   	printf("  o          /|\\         *   <_/|\\\n");
   	printf("  |          / \\               / \\\n");
-  	Sleep(4000); 
+  	Sleep(3000); 
   	system("cls");
 
   	printf("       \n"  );
   	printf("              0                {}\n");
   	printf("  o          /|\\ *           <_/|\\\n");
   	printf("  |          / \\               / \\\n");
-  	Sleep(4000); 
+  	Sleep(3000); 
   	system("cls");
 
-  	printf("<(Vovo, naoooo!)\t\t\n"  );
+  	printf("<(Pai, naoooo!)\t\t\n"  );
   	printf("              0                   {}\n");
   	printf("  o          /|*\\                /|\\\n");
   	printf("  |          / \\                 / \\\n");
-  	Sleep(4000); 
+  	Sleep(3000); 
   	system("cls");
 
-  	printf("<(Levanta, vo! Vamos )\t\t\n"  );
+  	printf("<(Levanta, papai! Vamos )\t\t\n"  );
   	printf("   o     0  \n");
   	printf("   |   --|--\n");
   	printf("        / \\\n");
-  	Sleep(4000); 
+  	Sleep(3000); 
   	system("cls");
 
   	printf("          <(Gi...Gi)\t\t\n"  );
   	printf("   o     0  \n");
   	printf("   |   --|--\n");
  	printf("        / \\\n");
-  	Sleep(4000); 
+  	Sleep(3000); 
   	system("cls");
 
   	printf("          <(Girottinho...)\t\t\n"  );
   	printf("   o     0  \n");
   	printf("   |   --|--\n");
   	printf("        / \\\n");
-  	Sleep(4000); 
+  	Sleep(3000); 
 	system("cls");
 
-  	printf("          <(Meu neto, faltou-me lhe ensinar tantas coisas)\t\t\n"  );
+  	printf("          <(Meu filho, faltou-me lhe ensinar tantas coisas)\t\t\n"  );
   	printf("   o     0  \n");
   	printf("   |   --|--\n");
   	printf("        / \\\n");
-  	Sleep(4000); 
+  	Sleep(3000); 
   	system("cls");
 
   	printf("          <(Mas me prometa)\t\t\n"  );
   	printf("   o     0  \n");
   	printf("   |   --|--\n");
   	printf("        / \\\n");
-  	Sleep(4000); 
+  	Sleep(3000); 
   	system("cls");
 
-  	printf("          <(Quando voce tiver 18 anos))\t\t\n"  );
+  	printf("          <(Quando voce tiver 18 anos)\t\t\n"  );
   	printf("   o     0  \n");
   	printf("   |   --|--\n");
   	printf("        / \\\n");
-  	Sleep(4000); 
+  	Sleep(3000); 
   	system("cls");
 
   	printf("          <(Voce vai em minha casa))\t\t\n"  );
   	printf("   o     0  \n");
   	printf("   |   --|--\n");
   	printf("        / \\\n");
-  	Sleep(4000); 
+  	Sleep(3000); 
   	system("cls");
 
   	printf("          <(E...E...E...))\t\t\n"  );
   	printf("   o     0  \n");
   	printf("   |   --|--\n");
   	printf("        / \\\n");
-  	Sleep(4000); 
+  	Sleep(3000); 
   	system("cls");
 
   	printf("          <(  ))\t\t\n"  );
   	printf("   o     0  \n");
   	printf("   |   --|--\n");
   	printf("        / \\\n");
-  	Sleep(4000); 
+  	Sleep(3000); 
 	system("cls");
 	
-	printf("<(VOVOOOOOO)\t\t\n"  );
+	printf("<(PAIIIIII)\t\t\n"  );
 	printf("   o    (*)  \n");
 	printf("   |   --|--\n");
 	printf("        / \\\n");
-	Sleep(4000); 
+	Sleep(3000); 
 	system("cls");
 	
 	printf("              -----------------------------\n");
@@ -1456,6 +1456,7 @@ int main(int argc, char *argv[]) {
 	    		system("cls");
 	    		printf("\n*****************************************************");
 				printf("\n*****************************************************");
+				printf("\n*****************************************************");
 				printf("\n*******                                       *******");
 				printf("\n*******                                       *******");
 				printf("\n*******         #   #  #####  #   #           *******");
@@ -1469,6 +1470,9 @@ int main(int argc, char *argv[]) {
 				printf("\n*******        #  #  #  #  #  #  #  #         *******");
 				printf("\n*******        # # # #  #  #   # #            *******");
 				printf("\n*******        ##   ##  #  #    ##  #         *******");
+				printf("\n*******                                       *******");
+				printf("\n*******       Voce encontrou o caminho        *******");
+				printf("\n*******            da aprovacao!              *******");
 				printf("\n*******                                       *******");
 				printf("\n*******      Aperte qualquer tecla para       *******");   	
 				printf("\n*******            voltar ao Menu.            *******");
